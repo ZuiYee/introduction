@@ -24,6 +24,11 @@
 
 初级前端，目前热衷于vue生态下的微信小程序开发以及前端页面输出。 [*Blog*](http://www.lolimay.cn)
 
+
+<h2><a href="https://github.com/ZuiYee" target="_blank"><img src="https://avatars3.githubusercontent.com/u/39691460?s=460&v=4" height="25" width="25"> ZuiYee</a></h2>
+
+闲人, web开发爱好者,热衷与逆向研究,皓神小迷弟.
+
 -----
 
 [添加自己的个人介绍](https://github.com/curdbin/introduction/edit/master/members.md)
